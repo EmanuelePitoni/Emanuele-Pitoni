@@ -1,0 +1,119 @@
+body{
+    background-image: url(background.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.quadrato{
+    width: 900px;
+    height: 600px;
+    background: black;
+    filter: opacity(70%);
+    border-radius: 5px;
+    position: fixed;
+    left: 250px;
+    top: 90px;
+    display: inline-block;
+}
+
+.logo{
+    width: 200px;
+    position: relative;
+    left: 600px;
+    top: 100px;
+}
+
+.logo-text{
+    position: relative;
+    top: 100px;
+    left: 500px;
+    color: rgb(19, 205, 19);
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+}
+
+.rettangolo-0{
+    width: 800px;
+    height: 35px;
+    background: rgb(19, 205, 19);
+    position: fixed;
+    left: 300px;
+    top: 280px;
+    display: inline-block;
+}
+
+button{
+    background-color: white;
+    border-radius: 5px;
+    font-family: 'Roboto', sans-serif;
+}
+
+nav > div{
+    position: relative;
+    left: 550px;
+    top: 100px;
+    
+}
+span{
+    font-size: 25px;
+    color: white;
+}
+
+div > p{
+    margin: 2px;
+    color: white;
+}
+
+.corpo-1{
+    position: relative;
+    left: 300px;
+    top: 125px;
+    font-family: 'Roboto', sans-serif;
+}
+.rettangolo-1{
+    width: 300px;
+    height: 25px;
+    background: orange;
+    border-radius: 5px;
+    position: relative;
+    left: 300px;
+    top: 125px;
+    
+}
+
+.corpo-2{
+    
+    position: relative;
+    left: 300px;
+    top: 125px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.rettangolo-2{
+    width: 500px;
+    height: 25px;
+    background: green;
+    border-radius: 5px;
+    position: relative;
+    left: 300px;
+    top: 125px;
+    
+}
+
+.corpo-3{
+    position: relative;
+    left: 300px;
+    top: 125px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.rettangolo-3{
+    width: 100px;
+    height: 25px;
+    background: red;
+    border-radius: 5px;
+    position: relative;
+    left: 300px;
+    top: 125px;
+    
+}
